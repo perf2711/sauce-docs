@@ -114,8 +114,7 @@ Instead of providing options in script argument lines, you can configure them in
 }
 ```
 
-For more details, consult `@backtrace-labs/javascript-cli` README.
-
+For more details, consult `@backtrace-labs/javascript-cli` [README](https://github.com/backtrace-labs/backtrace-javascript/blob/main/tools/cli/README.md).
 ### Step 3: Set Up Automatic Processing and Upload
 
 To process and upload your artifacts, you must first run `npm run backtrace:process` and then `npm run backtrace:upload`.
